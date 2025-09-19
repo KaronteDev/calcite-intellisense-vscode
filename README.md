@@ -16,18 +16,17 @@ Injects HTML IntelliSense (completion, hover, documentation) for **Esri Calcite 
 
 Start typing any Calcite component tag (e.g., `<calcite-accordion ...>`) or an attribute (e.g., `scale="m"`) and IntelliSense will suggest options derived from the custom-data JSON.
 
-!\[Usage Example Panel\](sc1.jpg)
+![Usage Example Panel](sc1.jpg)
 
-_Usage Example Panel_  
- 
+_Usage Example Panel_  
 
-!\[Usage Example Panel attribute\](sc3.jpg)
+![Usage Example Panel attribute](sc3.jpg)
 
 _Usage Example Panel attribute_
 
-!\[Usage Panel Documentation\](sc2.jpg)
+![Usage Panel Documentation](sc2.jpg)
 
-_Usage Panel Documentatio_n
+_Usage Panel Documentation_
 
 Official components documentation: [Components | Calcite Design System | Esri Developer](https://developers.arcgis.com/calcite-design-system/components/)
 
@@ -151,11 +150,9 @@ Total: 113
 *   calcite-tree
 *   calcite-tree-item
 
-## Contributing
+## Issues & Feedback
 
-Issues and PRs are welcome. 
-
----
+If you find a bug or have a suggestion, please open an issue on the [GitHub repository](https://github.com/KaronteDev/calcite-intellisense-vscode/issues).
 
 ## License
 
@@ -180,3 +177,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+
+© 2025 K-dev. Not affiliated with Esri. All Calcite Design System trademarks belong to their respective owners.

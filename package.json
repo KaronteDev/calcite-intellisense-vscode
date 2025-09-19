@@ -3,7 +3,7 @@
   "displayName": "Calcite IntelliSense (Custom HTML Data)",
   "description": "Injects HTML IntelliSense (completion, hover, documentation) for Calcite from ESRI’s official JSON",
 "publisher": "K-Dev",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.93.0"
   },
