@@ -1,12 +1,13 @@
-# Calcite IntelliSense (Custom HTML Data)
+# Calcite IntelliSense for HTML and CSS variables.
 
-Injects HTML IntelliSense (completion, hover, documentation) for **Esri Calcite Design System** web components, using Esri’s official custom-data JSON.
+Injects HTML IntelliSense (completion, hover, documentation) for **Esri Calcite Design System** web components and CSS variables IntelliSense, using Esri’s official custom-data JSON.
 
 ## Features
 
 *   Tag and attribute completion for Calcite components
 *   Hover documentation (descriptions, attribute value hints)
 *   Works in HTML and common web contexts (`.html`, `.ts/.tsx`, `.js/.jsx`, including template strings)
+*   CSS Calcite variables conpletion
 
 ## Requirements
 
@@ -14,19 +15,23 @@ Injects HTML IntelliSense (completion, hover, documentation) for **Esri Calcite 
 
 ## Usage
 
+### HTML
+
 Start typing any Calcite component tag (e.g., `<calcite-accordion ...>`) or an attribute (e.g., `scale="m"`) and IntelliSense will suggest options derived from the custom-data JSON.
 
+_Usage Example Panel_  
 ![Usage Example Panel](sc1.jpg)
 
-_Usage Example Panel_  
-
+_Usage Example Panel attribute_   
 ![Usage Example Panel attribute](sc3.jpg)
 
-_Usage Example Panel attribute_
-
+_Usage Panel Documentation_  
 ![Usage Panel Documentation](sc2.jpg)
 
-_Usage Panel Documentation_
+### CSS
+
+_Usage Example Calcite Button VCSS Variable_  
+![Usage Example Calcite Button VCSS Variable](sc4.jpg)
 
 Official components documentation: [Components | Calcite Design System | Esri Developer](https://developers.arcgis.com/calcite-design-system/components/)
 
