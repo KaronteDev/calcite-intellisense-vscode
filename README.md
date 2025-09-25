@@ -41,6 +41,8 @@ Official components documentation: [Components | Calcite Design System | Esri De
 
 ### HTML
 
+Extended Calcite Design System components [documentation](components.md).
+
 Total: 113
 
 *   calcite-accordion
